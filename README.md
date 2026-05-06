@@ -31,10 +31,6 @@
 2. Abrir el proyecto en [Nombre del IDE].
 3. Compilar y cargar al microcontrolador.
 
-
----
-Desarrollado como parte de la formación en [Tu Carrera/Universidad].
-
 ---
 ## 🛠️ Guía de Trabajo Rápida
 
@@ -47,3 +43,6 @@ Desarrollado como parte de la formación en [Tu Carrera/Universidad].
 
 > [!TIP]
 > Consulta la [Guía de Estilo completa aquí](./GUIA_ESTILO.md) antes de realizar cambios.
+
+---
+Desarrollado como parte de la formación en [Tu Carrera/Universidad].
