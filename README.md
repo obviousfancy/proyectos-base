@@ -20,6 +20,7 @@
 - `/src`: Firmware desarrollado en C.
 - `/hardware`: Esquema electrónico y diseño de PCB.
 - `/assets`: Capturas de pantalla y diagramas de bloques.
+- `/docs`: Documentacion relacionada respecto al proyecto general.
 
 ## 📸 Galería
 | Prototipo Físico | Diseño PCB |
