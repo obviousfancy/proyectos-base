@@ -31,5 +31,19 @@
 2. Abrir el proyecto en [Nombre del IDE].
 3. Compilar y cargar al microcontrolador.
 
+
 ---
 Desarrollado como parte de la formación en [Tu Carrera/Universidad].
+
+---
+## 🛠️ Guía de Trabajo Rápida
+
+| Tipo de Commit | Descripción |
+| :--- | :--- |
+| **feat** | Nuevas funciones/archivos |
+| **hw** | Cambios en PCB o esquemáticos |
+| **docs** | Documentación y reportes |
+| **fix** | Corrección de errores |
+
+> [!TIP]
+> Consulta la [Guía de Estilo completa aquí](./GUIA_ESTILO.md) antes de realizar cambios.
